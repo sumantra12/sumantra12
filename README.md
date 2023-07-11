@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Getting better programming
+- 🔭 Getting better at programming
 - 🌱 C++
 - 🤔 Database Programming
 - 📫 sumantradas13@gmail.com
